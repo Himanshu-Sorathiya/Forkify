@@ -46,6 +46,11 @@ provides a seamless, interactive experience.
     npm run build
     ```
 
+## 🌐 Live Demo
+
+[Forkify Live Demo](https://forkify-gikxkplxn-himanshu-sorathiyas-projects.vercel.app/)
+
+
 ## 📷 Screenshots
 
 ### 🏠 Dashboard
